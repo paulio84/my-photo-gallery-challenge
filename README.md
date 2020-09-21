@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/paulio84/my-photo-gallery-challenge/blob/main/src/assets/screenshot1.jpg)
+![screenshot](https://github.com/paulio84/my-photo-gallery-challenge/blob/main/src/assets/screenshot1.JPG)
 
 ### Built With
 
