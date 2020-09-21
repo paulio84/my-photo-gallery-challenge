@@ -1,0 +1,17 @@
+.footer-content {
+  color: var(--gray);
+  margin: 4rem 0 2.8rem 0;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-content {
+    margin: 7rem 0 4.3rem 0;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .footer-content {
+    margin: 10rem 0 5.8rem 0;
+  }
+}
